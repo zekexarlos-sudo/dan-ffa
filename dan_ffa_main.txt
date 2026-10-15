@@ -1,6 +1,7 @@
 -- dan ffa main script
--- tabs: legit → visuals → misc
--- full esp + silent aim + weather
+-- made by zeke From HOL
+-- vibecoded allat
+
 
 if not game:IsLoaded() then game.Loaded:Wait() end
 
